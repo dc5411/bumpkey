@@ -12,7 +12,7 @@ You'll even get a major idea on how to build and customize your own Swiss Knife 
 |#| Date | Conference | Link to Video | Link to Slides |
 |---|---|---|---|---|
 |1| NOV-2020 | YASCon India | - | https://docs.google.com/presentation/d/1B8esCFN6iqr6myeXzZst5dtSDhdhS_eAuuGxenC6_wA/edit?usp=sharing |
-|1| NOV-2020 | BSides Islamabad Pakistán | - | - |
+|1| NOV-2020 | BSides Islamabad Pakistán | - | https://docs.google.com/presentation/d/10vLmi_MIHDbcU5dI23mt55RACGkQW1gfZjc9wFCbDdU/edit?usp=sharing |
 
 ## Credits
 
